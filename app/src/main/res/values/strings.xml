@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="failure_permission" />
+    <string name="permission_not_granted" />
+</resources>
